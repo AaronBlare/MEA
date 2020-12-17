@@ -1,0 +1,1 @@
+DIR %CD% /D /ad /b > "%CD%\Dir_names.txt"
